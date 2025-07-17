@@ -38,7 +38,7 @@ quarto render
 
 ## 📄 License
 
-This book is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](LICENSE).
+This book is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](LICENSE).
 
 You are free to:
 - **Share** — copy and redistribute the material in any medium or format
@@ -46,3 +46,4 @@ You are free to:
 
 Under the following terms:
 - **Attribution** — You must give appropriate credit to Jason McPheron and link back to this repository
+- **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license

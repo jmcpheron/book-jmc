@@ -2,7 +2,9 @@
 
 This is the companion book for the **Jason Makes Coffee (JMC)** project — an open-source exploration into building a custom 3D-printed **flow-restriction filter cap** for the AeroPress XL.
 
-Built with [Quarto](https://quarto.org/), this short book documents the full design process, prototyping iterations, material choices, and brewing experiments. Whether you're a maker, coffee nerd, or just someone who loves fiddling with gaskets, you're in the right place.
+Built with [Quarto](https://quarto.org/), this book documents the full design process, prototyping iterations, material choices, and brewing experiments. Whether you're a maker, coffee nerd, or just someone who loves fiddling with gaskets, you're in the right place.
+
+📖 **[Read the Book Online](https://jmcpheron.github.io/book-jmc/)** (coming soon!)
 
 ---
 
@@ -22,8 +24,8 @@ Built with [Quarto](https://quarto.org/), this short book documents the full des
 
 ```bash
 # Clone this repo
-git clone https://github.com/YOUR_USERNAME/jmc-coffee-book.git
-cd jmc-coffee-book
+git clone https://github.com/jmcpheron/book-jmc.git
+cd book-jmc
 
 # Preview locally
 quarto preview

@@ -7,7 +7,7 @@ book:
   subtitle: "A 3D-Printed AeroPress Filter Cap"
   author: "Jason McPheron"
   date: today
-  repo-url: https://github.com/jasonmcpheron/book-jmc
+  repo-url: https://github.com/jmcpheron/book-jmc
   repo-actions: [edit, issue]
   chapters:
     - index.qmd

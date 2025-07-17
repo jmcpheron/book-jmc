@@ -163,6 +163,8 @@ Everyone must assess their own risk tolerance. This project provides:
 - Alternative design options
 - Honest discussion of unknowns
 
+As stated in the project description: "This is a DIY project; decide your own comfort level with plastic contact. If you'd rather avoid it entirely, grab the supplied STEP files and CNC the cap in stainless steel or aluminum instead."
+
 The goal is informed consent, not fear-mongering or dismissal of legitimate concerns.
 
 ## Moving Forward

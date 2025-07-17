@@ -8,7 +8,7 @@ Welcome to **Jason Makes Coffee** — a journey into the intersection of 3D prin
 
 ## About This Book
 
-This book documents the design and development of a custom flow-restriction filter cap for the AeroPress XL. What started as a simple desire for better coffee control evolved into an exploration of:
+This book documents the design and development of the **JMC NoDrip XL** — a 3D-printed replacement cap that adds flow-restriction to the AeroPress XL. Think Prismo-style pressure brews without the metal screen. What started as a simple desire for better coffee control evolved into an exploration of:
 
 - **Engineering Design**: From concept sketches to CAD models
 - **Material Science**: Understanding plastics, food safety, and microplastics

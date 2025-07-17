@@ -40,6 +40,10 @@ Commercial flow restriction devices exist, but 3D printing offers unique advanta
 - Fork and modify existing projects
 - Contribute improvements back
 
+## Why "NoDrip"?
+
+The name is aspirational — "Well it drips a bit, but I am still changing the design and valve shapes" wouldn't fit on the label! It's an early prototype, and aspirational naming is part of the fun.
+
 ## The JMC Approach
 
 This project takes a systematic approach to designing a better AeroPress cap:
@@ -52,13 +56,23 @@ This project takes a systematic approach to designing a better AeroPress cap:
 
 ## What Makes This Different?
 
-Unlike commercial products, the JMC cap:
+Unlike commercial products, the JMC NoDrip XL:
 
-- Is specifically designed for the AeroPress XL
-- Uses readily available printing materials
-- Includes flexible gasket integration
+- Is specifically designed for the AeroPress XL (no commercial XL-specific flow-restriction caps exist yet)
+- Uses standard paper filters you already own
+- Features a flow-restriction outlet for pressure builds
+- Includes flexible TPE disc gasket option
 - Provides complete build documentation
-- Remains fully open-source
+- Remains fully open-source under CC BY-SA 4.0
+
+### Key Features
+
+| Feature | Why it matters |
+|---------|----------------|
+| Flow-restriction outlet | Builds pressure for richer extraction or inverted brews |
+| Standard paper-filter cradle | Uses the filters you already own |
+| Locking tab design | Secure fit with the AeroPress XL |
+| TPE gasket compatibility | Better seal and no-drip performance |
 
 ## Next Steps
 

@@ -65,12 +65,13 @@ Before moving to CAD, we established key constraints:
 - Result: Good flow, difficult to clean
 ```
 
-### Version 4: Current Design
+### Version 4: Current Design (NoDrip XL)
 ```
-- Optimized hole placement
-- Smooth internal surfaces
-- Dual-material gasket system
-- Result: Reliable performance
+- Flow-restriction outlet design
+- Standard paper-filter cradle
+- Locking tab overhang
+- TPE disc gasket compatibility
+- Result: Prismo-style pressure without metal screen
 ```
 
 ## Design Tools and Workflow

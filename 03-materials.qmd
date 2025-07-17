@@ -29,18 +29,19 @@ Chemical formula: (C10H8O4)n
 
 ## Gasket Material: TPE/TPU
 
-The sealing gasket requires flexibility:
+The NoDrip XL uses an optional TPE disc gasket for improved sealing:
 
 ### Options Tested
 1. **TPU 95A** - Good flexibility, difficult adhesion
 2. **TPE 85A** - Excellent seal, tricky to print
 3. **Silicone** - Ideal properties, requires casting
 
-### Final Choice: TPE 85A
+### Final Choice: TPE Disc Gasket
+- Designed as a separate disc for easy replacement
 - Shore hardness ideal for sealing
-- Bonds well to PCTG with proper settings
-- Maintains flexibility over time
+- No-drip performance when properly installed
 - Food-safe formulations available
+- Optional component (cap works without it)
 
 ## Materials to Avoid
 

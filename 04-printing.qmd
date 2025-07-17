@@ -20,21 +20,24 @@ title: "3D Printing Guide"
 
 ## Slicer Settings
 
-### PCTG Main Body
+### PCTG Main Body (NoDrip XL Cap)
 
 ```
 Layer height: 0.2mm
 First layer: 0.3mm
-Perimeters: 4 (minimum)
-Top/bottom layers: 6
-Infill: 100% (critical!)
+Perimeters: 3
+Top layers: 4
+Bottom layers: 4
+Infill: 15% gyroid (more recommended)
 Print speed: 40mm/s
 Temperature: 255°C
-Bed temperature: 75°C
+Bed temperature: 80°C
 Retraction: 3mm @ 35mm/s
+Ironing: All top surfaces
+Supports: Suggested for locking tab overhang
 ```
 
-### TPE Gasket Ring
+### TPE Disc Gasket (Optional)
 
 ```
 Layer height: 0.2mm
@@ -44,6 +47,7 @@ Print speed: 20mm/s
 Temperature: 230°C
 Bed temperature: 50°C
 Retraction: Disabled
+Note: Print separately as a disc
 ```
 
 ## Critical Print Considerations
@@ -61,9 +65,10 @@ Retraction: Disabled
 - No gaps between lines
 
 ### Support Material
-- Design requires NO supports
-- All overhangs are within 45° rule
-- Gasket groove prints bridging
+- Locking tab overhang may need supports with droopy PCTG
+- Use tree supports for minimal contact
+- Remove carefully to preserve tab integrity
+- Rest of design prints support-free
 
 ## Multi-Material Printing
 

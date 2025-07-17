@@ -39,10 +39,10 @@ For hardware projects, consider:
    - Maximum freedom for users
 
 ### JMC License Choice
-This project uses CERN-OHL-S-2.0 because:
+The NoDrip XL is released under Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0):
+- **Attribution**: Credit Jason Makes Coffee (JMC) and link back to the project
+- **ShareAlike**: Any remix must remain under CC BY-SA so improvements stay open
 - Encourages derivative sharing
-- Protects community contributions
-- Clear attribution requirements
 - Compatible with commercial use
 
 ## Sharing Your Designs
@@ -191,10 +191,10 @@ Encourage others to:
 ## Future Directions
 
 ### Potential Expansions
-1. **Other brewing methods** (V60, Chemex)
-2. **Different sizes** (AeroPress Go, Standard)
-3. **Advanced features** (adjustment mechanisms)
-4. **Companion tools** (dosing funnels, stirrers)
+1. **Standard-size AeroPress NoDrip** (coming next)
+2. **Swappable valve experiments** (flexible membranes, check-ball inserts)
+3. **More JMC coffee upgrades** (gaskets, pressure mods, brew-tool experiments)
+4. **Different brewing methods** (V60, Chemex adaptations)
 
 ### Technology Evolution
 - Resin printing for precision
@@ -205,16 +205,16 @@ Encourage others to:
 ## Call to Action
 
 ### For Users
-1. **Build it** and share your experience
-2. **Modify it** for your needs
-3. **Document** your changes
-4. **Share** with others
+1. **Download and print** the NoDrip XL
+2. **Brew, taste, tweak** your recipes
+3. **Fork the repo** and share your remix
+4. **Remember attribution & share-alike** all the way
 
 ### For Developers
-1. **Fork** the repository
-2. **Experiment** with new ideas
-3. **Contribute** improvements
-4. **Maintain** the community
+1. **Fork** the repository on GitHub or Printables
+2. **Experiment** with valve designs and materials
+3. **Contribute** improvements back to the community
+4. **Help expand** to other AeroPress models
 
 ## Conclusion
 

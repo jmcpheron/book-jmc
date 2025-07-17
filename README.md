@@ -1,4 +1,4 @@
-# ☕️ JMC: Brewing Better with Plastic — A 3D-Printed AeroPress Filter Cap
+# ☕️ The NoDrip Project — 3D-Printing Flow Restriction for the AeroPress XL
 
 This is the companion book for the **Jason Makes Coffee (JMC)** project — an open-source exploration into building a custom 3D-printed **flow-restriction filter cap** for the AeroPress XL.
 
@@ -32,3 +32,17 @@ quarto preview
 
 # Build full book
 quarto render
+```
+
+---
+
+## 📄 License
+
+This book is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](LICENSE).
+
+You are free to:
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material
+
+Under the following terms:
+- **Attribution** — You must give appropriate credit to Jason McPheron and link back to this repository

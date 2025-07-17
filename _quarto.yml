@@ -3,8 +3,8 @@ project:
   output-dir: _book
 
 book:
-  title: "Brewing Better with Plastic"
-  subtitle: "A 3D-Printed AeroPress Filter Cap"
+  title: "The NoDrip Project"
+  subtitle: "3D-Printing Flow Restriction for the AeroPress XL"
   author: "Jason McPheron"
   date: today
   repo-url: https://github.com/jmcpheron/book-jmc

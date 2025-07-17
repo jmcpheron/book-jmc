@@ -44,6 +44,8 @@ Commercial flow restriction devices exist, but 3D printing offers unique advanta
 
 The name is aspirational — "Well it drips a bit, but I am still changing the design and valve shapes" wouldn't fit on the label! It's an early prototype, and aspirational naming is part of the fun.
 
+![Close-up of different flow restriction patterns in PCTG](images/IMG_0051.jpeg)
+
 ## The JMC Approach
 
 This project takes a systematic approach to designing a better AeroPress cap:

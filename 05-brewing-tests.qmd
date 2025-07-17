@@ -6,6 +6,8 @@ title: "Brewing Tests and Results"
 
 ## Test Methodology
 
+![NoDrip XL in action - brewing with the AeroPress XL](images/270A7666-A640-4388-9A1A-35FDEB282E39_4_5005_c.jpeg)
+
 ### Equipment Used
 - AeroPress XL
 - Acaia Pearl scale (0.1g precision)
@@ -171,3 +173,8 @@ Trade-offs include:
 - Regular maintenance
 
 For those seeking better extraction and willing to experiment, the results speak for themselves.
+
+::: {.callout-note}
+## Video Demo
+A video demonstration of the NoDrip XL in action is available in the project files: `images/IMG_0054.MOV`
+:::

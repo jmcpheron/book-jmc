@@ -120,6 +120,8 @@ Given unknowns, we recommend:
 3. **Limit to cold brew** applications
 4. **Print in PCTG** only
 
+![The snowflake pattern design - balancing flow restriction with cleanability](images/DA0CD7AB-DA38-4A42-95C6-E8DEFD296CD8_4_5005_c.jpeg)
+
 ### Monitoring Your Parts
 Check monthly for:
 - Surface crazing

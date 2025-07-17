@@ -74,6 +74,8 @@ Before moving to CAD, we established key constraints:
 - Result: Prismo-style pressure without metal screen
 ```
 
+![The NoDrip XL prototype showing the snowflake-pattern flow restrictor](images/DA0CD7AB-DA38-4A42-95C6-E8DEFD296CD8_4_5005_c.jpeg)
+
 ## Design Tools and Workflow
 
 ### Software Stack

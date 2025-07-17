@@ -1,0 +1,65 @@
+---
+title: "Why Build Your Own AeroPress Cap?"
+---
+
+# Chapter 1: Why This Project?
+
+## The Problem with Standard Brewing
+
+The AeroPress is beloved for its simplicity and consistency, but it has limitations:
+
+- **Limited flow control** during steeping
+- **Dripping issues** when inverted
+- **Fixed extraction parameters** without modification
+
+## Enter Flow Restriction
+
+Flow restriction brewing has gained popularity in the specialty coffee world. By controlling the rate at which water passes through coffee grounds, we can:
+
+1. **Extend contact time** without over-extraction
+2. **Increase extraction uniformity**
+3. **Reduce channeling** in the coffee bed
+4. **Achieve higher extraction yields**
+
+## Why 3D Print?
+
+Commercial flow restriction devices exist, but 3D printing offers unique advantages:
+
+### Rapid Iteration
+- Test new designs in hours, not weeks
+- Fail fast and learn quickly
+- No minimum order quantities
+
+### Customization
+- Tailor hole patterns to your brewing style
+- Adjust for different coffee densities
+- Create AeroPress XL-specific designs
+
+### Community Sharing
+- Open-source designs benefit everyone
+- Fork and modify existing projects
+- Contribute improvements back
+
+## The JMC Approach
+
+This project takes a systematic approach to designing a better AeroPress cap:
+
+1. **Research** existing solutions and their limitations
+2. **Design** with specific brewing goals in mind
+3. **Prototype** using accessible 3D printing
+4. **Test** with real coffee and measurements
+5. **Share** findings and files openly
+
+## What Makes This Different?
+
+Unlike commercial products, the JMC cap:
+
+- Is specifically designed for the AeroPress XL
+- Uses readily available printing materials
+- Includes flexible gasket integration
+- Provides complete build documentation
+- Remains fully open-source
+
+## Next Steps
+
+In the following chapters, we'll dive into the design process, material selection, and practical brewing results. Whether you build one yourself or just follow along for the journey, let's explore what's possible when makers meet coffee.

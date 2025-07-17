@@ -1,0 +1,176 @@
+---
+title: "Microplastics and Safety"
+---
+
+# Chapter 6: The Microplastics Question
+
+## Understanding the Concern
+
+Microplastics in food and beverages are a growing concern. When using 3D-printed plastics for coffee brewing, we must address this honestly.
+
+## What Are Microplastics?
+
+### Definition
+- Plastic particles <5mm in diameter
+- Include both primary and secondary sources
+- Found throughout the environment
+- Potential health impacts still being studied
+
+### Sources in Coffee Brewing
+1. **Plastic equipment** wear
+2. **Filter materials** breakdown  
+3. **Water supply** contamination
+4. **Packaging** materials
+
+## 3D Printing Specific Concerns
+
+### Layer Adhesion Issues
+- Poor bonding creates particle release
+- Mechanical stress causes delamination
+- Hot water accelerates degradation
+
+### Surface Roughness
+- FDM printing creates textured surfaces
+- Higher surface area for potential release
+- Micro-crevices trap particles
+
+### Material Degradation
+- UV exposure weakens polymers
+- Chemical interaction with coffee acids
+- Thermal cycling causes brittleness
+
+## Testing and Measurement
+
+### Visual Inspection Methods
+1. **Microscope examination** (40x minimum)
+2. **Before/after weight comparison**
+3. **Surface degradation monitoring**
+4. **Water filtration testing**
+
+### Professional Testing
+- Spectroscopy analysis
+- Particle counting methods
+- Chemical composition verification
+- Not accessible to most makers
+
+## Risk Mitigation Strategies
+
+### Design Approaches
+1. **Minimize surface area** in contact with coffee
+2. **Smooth flow paths** reduce turbulence
+3. **Thick walls** for durability
+4. **Avoid sharp edges** that could break
+
+### Material Selection
+- **PCTG** shows excellent stability
+- **High-quality filament** reduces additives
+- **Avoid recycled materials** for food contact
+- **FDA-approved** formulations when available
+
+### Printing Best Practices
+```
+✓ 100% infill (no voids)
+✓ Extra perimeters (4+)
+✓ Higher temperatures (better fusion)
+✓ Slow printing (quality over speed)
+✓ Post-processing (smoothing)
+```
+
+### Usage Guidelines
+1. **Pre-wash** thoroughly before first use
+2. **Regular inspection** for wear
+3. **Replace periodically** (6-12 months)
+4. **Gentle cleaning** only
+5. **Avoid abrasives**
+
+## Comparative Risk Assessment
+
+### Traditional Products
+- Paper filters: bleaching chemicals
+- Metal filters: manufacturing residues
+- Plastic components: injection molding additives
+- Silicone parts: curing agents
+
+### 3D Printed Parts
+- Known material composition
+- Controllable process
+- No mold release agents
+- Customizable for safety
+
+## Scientific Perspective
+
+### Current Research
+- Limited studies on FDM food contact
+- Most focus on injection molded plastics
+- Particle release varies by material
+- Long-term effects unknown
+
+### Precautionary Principle
+Given unknowns, we recommend:
+1. Minimize plastic contact time
+2. Use lowest safe temperatures
+3. Replace parts showing wear
+4. Consider alternatives when possible
+
+## Practical Recommendations
+
+### For Concerned Users
+1. **Use metal mesh** inserts
+2. **Line with paper** filters
+3. **Limit to cold brew** applications
+4. **Print in PCTG** only
+
+### Monitoring Your Parts
+Check monthly for:
+- Surface crazing
+- Color changes  
+- Brittleness
+- Rough textures
+- Missing material
+
+## Alternative Approaches
+
+### Hybrid Designs
+- 3D printed frame + steel mesh
+- Silicone gaskets (cast, not printed)
+- Removable/replaceable components
+
+### Future Materials
+- Medical grade resins
+- Ceramic composites
+- Bio-based polymers
+- Metal printing (when accessible)
+
+## Honest Assessment
+
+### What We Know
+- Some particle release is likely
+- Quality matters significantly
+- Proper printing reduces risk
+- Regular replacement helps
+
+### What We Don't Know
+- Exact release quantities
+- Long-term health impacts
+- Optimal replacement schedule
+- Best testing methods
+
+## Making Informed Choices
+
+Everyone must assess their own risk tolerance. This project provides:
+- Transparent material information
+- Best practices for safety
+- Alternative design options
+- Honest discussion of unknowns
+
+The goal is informed consent, not fear-mongering or dismissal of legitimate concerns.
+
+## Moving Forward
+
+Research continues on plastic safety. Meanwhile:
+1. Follow best practices
+2. Monitor your equipment
+3. Stay informed on research
+4. Share findings with community
+
+Next chapter: Contributing to open-source hardware development.

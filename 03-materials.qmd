@@ -1,0 +1,122 @@
+---
+title: "Materials and Safety"
+---
+
+# Chapter 3: Choosing the Right Plastics
+
+## Food Safety First
+
+When 3D printing anything that contacts food or beverages, material selection is critical. Not all filaments are created equal.
+
+## Primary Material: PCTG
+
+After extensive research and testing, PCTG (Polyethylene Terephthalate Glycol-Modified) emerged as the ideal choice:
+
+### Why PCTG?
+- **Chemical resistance** to coffee acids
+- **Temperature stability** up to 80°C+
+- **FDA approved** formulations available
+- **Clear printing** for visual inspection
+- **Low moisture absorption**
+
+### PCTG Specifications
+```
+Glass transition: 80°C
+Print temperature: 245-260°C
+Bed temperature: 70-80°C
+Chemical formula: (C10H8O4)n
+```
+
+## Gasket Material: TPE/TPU
+
+The sealing gasket requires flexibility:
+
+### Options Tested
+1. **TPU 95A** - Good flexibility, difficult adhesion
+2. **TPE 85A** - Excellent seal, tricky to print
+3. **Silicone** - Ideal properties, requires casting
+
+### Final Choice: TPE 85A
+- Shore hardness ideal for sealing
+- Bonds well to PCTG with proper settings
+- Maintains flexibility over time
+- Food-safe formulations available
+
+## Materials to Avoid
+
+### Never Use
+- **ABS** - Releases harmful fumes, not food-safe
+- **Standard PLA** - Degrades with heat and moisture
+- **Nylon** - Absorbs water, affects coffee taste
+
+### Use with Caution
+- **PETG** - Similar to PCTG but less chemical resistant
+- **PP** - Difficult to print, may warp
+- **PC** - Requires very high temperatures
+
+## Surface Finish Matters
+
+### Layer Adhesion
+- Proper temperatures ensure no gaps
+- Avoid under-extrusion at all costs
+- Consider 110% flow rate for solid walls
+
+### Post-Processing
+1. **Sanding** - Removes layer lines
+2. **Vapor smoothing** - Not recommended for PCTG
+3. **Food-safe coating** - Optional but adds complexity
+
+## Testing for Safety
+
+### Visual Inspection
+- Check for gaps between layers
+- Ensure no stringing or blobs
+- Verify smooth internal surfaces
+
+### Water Testing
+1. Submerge in hot water (90°C) for 10 minutes
+2. Check for deformation or degradation
+3. Inspect for any discoloration
+
+### Practical Testing
+- Brew with water only first
+- Check for any off-tastes
+- Monitor for degradation over time
+
+## Sourcing Materials
+
+### Recommended Brands
+- **Prusament PCTG** - Consistent quality
+- **FilamentOne PCTG** - Good clarity
+- **NinjaTek Chinchilla** - Excellent TPE
+
+### What to Look For
+- FDA compliance statements
+- MSDS availability
+- Consistent diameter (±0.02mm)
+- Proper storage (sealed, dry)
+
+## Storage and Handling
+
+### Filament Storage
+- Sealed containers with desiccant
+- Print directly from dry box if possible
+- PCTG: <20% humidity ideal
+
+### Printed Parts
+- Wash with dish soap before first use
+- Store dry between uses
+- Replace if any degradation appears
+
+## The Microplastics Question
+
+This deserves its own chapter — see Chapter 6 for a detailed discussion of microplastic concerns and mitigation strategies.
+
+## Key Takeaways
+
+1. **PCTG** is the optimal choice for the main body
+2. **TPE** provides excellent gasket properties
+3. **Surface quality** matters as much as material
+4. **Regular inspection** ensures continued safety
+
+Next, we'll dive into the actual printing process and settings that make it all work.

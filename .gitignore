@@ -1,0 +1,57 @@
+# Quarto
+/.quarto/
+_book/
+_site/
+*.html
+*_cache/
+*_files/
+
+# R/RStudio
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/
+venv/
+.venv
+
+# MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor directories and files
+.idea
+.vscode
+*.swp
+*.swo
+*~
+
+# LaTeX auxiliary files (if rendering to PDF)
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Project specific
+/docs/
+/output/
+*.bak
+.temp/

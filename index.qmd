@@ -1,0 +1,47 @@
+---
+title: "Preface"
+---
+
+# Welcome to JMC
+
+Welcome to **Jason Makes Coffee** — a journey into the intersection of 3D printing, coffee brewing, and open-source hardware design.
+
+## About This Book
+
+This book documents the design and development of a custom flow-restriction filter cap for the AeroPress XL. What started as a simple desire for better coffee control evolved into an exploration of:
+
+- **Engineering Design**: From concept sketches to CAD models
+- **Material Science**: Understanding plastics, food safety, and microplastics
+- **Rapid Prototyping**: Iterating through 3D-printed designs
+- **Coffee Science**: How flow restriction affects extraction
+
+## Who This Book Is For
+
+Whether you're:
+
+- A **maker** interested in functional 3D printing projects
+- A **coffee enthusiast** looking to modify your brewing setup
+- An **engineer** curious about design iteration processes
+- Someone interested in **open-source hardware** development
+
+You'll find something valuable in these pages.
+
+## What You'll Learn
+
+Throughout this book, we'll cover:
+
+1. The motivation behind creating custom coffee hardware
+2. Design principles for food-safe 3D printing
+3. Practical prototyping workflows
+4. Real-world testing and iteration
+5. Considerations for sharing open-source hardware
+
+## Getting Started
+
+Each chapter builds on the previous, but feel free to jump to sections that interest you most. All design files, code, and resources are available in the project repository.
+
+Let's brew something better together.
+
+---
+
+*This book is a work in progress. Feedback and contributions are welcome via the project repository.*

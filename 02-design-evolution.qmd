@@ -1,0 +1,106 @@
+---
+title: "Design Evolution"
+---
+
+# Chapter 2: From Napkin Sketch to CAD Model
+
+## Initial Concepts
+
+Every design starts somewhere. For the JMC cap, it began with a simple question: "What if the AeroPress filter cap had adjustable flow?"
+
+### The Napkin Stage
+
+The first sketches explored several concepts:
+
+1. **Multi-hole patterns** - Various arrangements of small perforations
+2. **Spiral channels** - Creating turbulence for better extraction
+3. **Variable aperture** - Adjustable flow like a camera iris
+4. **Modular inserts** - Swappable flow plates
+
+## Design Constraints
+
+Before moving to CAD, we established key constraints:
+
+### Physical Requirements
+- Must fit AeroPress XL dimensions precisely
+- Maintain seal integrity during brewing
+- Support standard paper filters
+- Withstand brewing temperatures (80-100°C)
+
+### Manufacturing Constraints
+- Printable on consumer FDM printers
+- No support material in critical areas
+- Reasonable print times (<2 hours)
+- Post-processing minimal
+
+### User Experience
+- Easy to clean
+- Intuitive to use
+- Durable for daily use
+- Safe for food contact
+
+## CAD Development
+
+### Version 1: Basic Proof of Concept
+```
+- Simple cylinder with holes
+- Fixed gasket groove
+- 0.8mm hole diameter
+- Result: Leaked badly, poor flow
+```
+
+### Version 2: Improved Sealing
+```
+- Deeper gasket channel
+- Tapered edges
+- Multiple hole sizes tested
+- Result: Better seal, uneven extraction
+```
+
+### Version 3: Flow Optimization
+```
+- Hexagonal hole pattern
+- Gradual thickness transitions
+- Integrated drip fins
+- Result: Good flow, difficult to clean
+```
+
+### Version 4: Current Design
+```
+- Optimized hole placement
+- Smooth internal surfaces
+- Dual-material gasket system
+- Result: Reliable performance
+```
+
+## Design Tools and Workflow
+
+### Software Stack
+- **CAD**: Fusion 360 / OpenSCAD
+- **Slicing**: PrusaSlicer
+- **Analysis**: Flow simulation basics
+
+### Parametric Design
+Key parameters made adjustable:
+- Hole diameter and count
+- Wall thickness
+- Gasket groove dimensions
+- Overall height
+
+## Lessons Learned
+
+1. **Iterate quickly** - First prints revealed issues immediately
+2. **Test with water first** - Save coffee for proven designs
+3. **Document everything** - Failed designs teach valuable lessons
+4. **Community feedback** - Other users spot issues you miss
+
+## Design Files
+
+All CAD files are available in the repository:
+- OpenSCAD source for customization
+- STL files for direct printing
+- Technical drawings with dimensions
+
+## Next: Material Selection
+
+With the design refined, the next chapter explores choosing the right plastics for safe, effective brewing.

@@ -1,0 +1,231 @@
+---
+title: "Open Source Sharing"
+---
+
+# Chapter 7: Contributing to Open Hardware
+
+## Why Open Source?
+
+### Community Benefits
+- **Collective improvement** through iteration
+- **Accessibility** for all skill levels
+- **Transparency** in design decisions
+- **Education** through shared knowledge
+
+### Personal Benefits
+- Learn from others' modifications
+- Get feedback on designs
+- Build reputation in maker community
+- Contribute to coffee culture
+
+## Licensing Your Work
+
+### Choosing a License
+For hardware projects, consider:
+
+1. **CERN Open Hardware License**
+   - Designed specifically for hardware
+   - Strong copyleft provisions
+   - Requires attribution
+
+2. **CC BY-SA**
+   - Creative Commons Attribution-ShareAlike
+   - Good for documentation
+   - Widely understood
+
+3. **MIT/Apache**
+   - Permissive licenses
+   - Good for associated software
+   - Maximum freedom for users
+
+### JMC License Choice
+This project uses CERN-OHL-S-2.0 because:
+- Encourages derivative sharing
+- Protects community contributions
+- Clear attribution requirements
+- Compatible with commercial use
+
+## Sharing Your Designs
+
+### Essential Files
+
+```
+project/
+├── CAD/
+│   ├── source/          # Original CAD files
+│   ├── exports/         # STL, STEP files
+│   └── drawings/        # Technical drawings
+├── docs/
+│   ├── assembly.md      # Build instructions
+│   ├── bom.md          # Bill of materials
+│   └── photos/         # Process photos
+├── firmware/           # If applicable
+├── LICENSE
+└── README.md
+```
+
+### Documentation Standards
+
+#### README Structure
+1. **Project description**
+2. **Features and benefits**
+3. **Requirements** (tools, materials)
+4. **Quick start** guide
+5. **Detailed documentation** links
+6. **Contributing** guidelines
+7. **License** information
+
+#### Assembly Instructions
+- Step-by-step photos
+- Common mistakes to avoid
+- Required tools list
+- Time estimates
+- Difficulty indicators
+
+### Version Control
+
+#### Git Best Practices
+```bash
+# Good commit messages
+git commit -m "Add: TPE gasket groove dimensions"
+git commit -m "Fix: Increase wall thickness to 2mm"
+git commit -m "Docs: Update assembly instructions"
+
+# Tag releases
+git tag -a v1.0.0 -m "First stable release"
+```
+
+#### Semantic Versioning
+- **Major**: Breaking changes (v2.0.0)
+- **Minor**: New features (v1.1.0)
+- **Patch**: Bug fixes (v1.0.1)
+
+## Building Community
+
+### Platforms for Sharing
+
+1. **GitHub/GitLab**
+   - Version control
+   - Issue tracking
+   - Discussions
+   - Free for open source
+
+2. **Printables/Thingiverse**
+   - 3D printing focused
+   - Built-in makes gallery
+   - Comment systems
+
+3. **Hackaday.io**
+   - Project logs
+   - Component lists
+   - Build instructions
+
+4. **Forums**
+   - Reddit (r/3Dprinting, r/Coffee)
+   - Discord servers
+   - Specialty forums
+
+### Engaging Contributors
+
+#### Welcome Contributions
+- Respond promptly to issues
+- Thank contributors publicly
+- Credit all contributions
+- Maintain friendly tone
+
+#### Clear Guidelines
+```markdown
+## Contributing
+
+We welcome contributions! Please:
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Submit a pull request
+
+See CONTRIBUTING.md for details.
+```
+
+### Managing Feedback
+
+#### Positive Responses
+- Feature requests → Create issues
+- Success stories → Add to gallery
+- Improvements → Encourage PRs
+
+#### Constructive Criticism
+- Safety concerns → Address immediately
+- Design flaws → Document and fix
+- Better methods → Learn and adapt
+
+## Sustainability
+
+### Long-term Maintenance
+1. **Set expectations** about support
+2. **Find co-maintainers** for continuity
+3. **Document everything** thoroughly
+4. **Archive properly** if discontinuing
+
+### Creating Derivatives
+
+Encourage others to:
+- Fork for specific use cases
+- Translate documentation
+- Port to different printers
+- Adapt for other brewers
+
+## Impact Measurement
+
+### Success Metrics
+- Download/clone counts
+- Derivative projects
+- Community contributions
+- Real-world usage photos
+
+### Gathering Feedback
+- User surveys
+- Coffee quality reports
+- Failure/success stories
+- Suggested improvements
+
+## Future Directions
+
+### Potential Expansions
+1. **Other brewing methods** (V60, Chemex)
+2. **Different sizes** (AeroPress Go, Standard)
+3. **Advanced features** (adjustment mechanisms)
+4. **Companion tools** (dosing funnels, stirrers)
+
+### Technology Evolution
+- Resin printing for precision
+- Multi-material capabilities
+- Automated testing rigs
+- Community design tools
+
+## Call to Action
+
+### For Users
+1. **Build it** and share your experience
+2. **Modify it** for your needs
+3. **Document** your changes
+4. **Share** with others
+
+### For Developers
+1. **Fork** the repository
+2. **Experiment** with new ideas
+3. **Contribute** improvements
+4. **Maintain** the community
+
+## Conclusion
+
+Open source hardware democratizes innovation. By sharing the JMC cap design, we hope to:
+- Inspire better coffee brewing
+- Encourage maker creativity
+- Build a supportive community
+- Advance 3D printing applications
+
+Your contributions, no matter how small, make this project better for everyone.
+
+---
+
+*Thank you for joining this journey. May your coffee be excellent and your prints successful!*

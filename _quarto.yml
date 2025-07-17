@@ -1,0 +1,37 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "Brewing Better with Plastic"
+  subtitle: "A 3D-Printed AeroPress Filter Cap"
+  author: "Jason McPheron"
+  date: today
+  repo-url: https://github.com/jasonmcpheron/book-jmc
+  repo-actions: [edit, issue]
+  chapters:
+    - index.qmd
+    - 01-why-this.qmd
+    - 02-design-evolution.qmd
+    - 03-materials.qmd
+    - 04-printing.qmd
+    - 05-brewing-tests.qmd
+    - 06-microplastics.qmd
+    - 07-open-source.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    number-sections: false
+    code-fold: true
+    code-tools: true
+  pdf:
+    documentclass: book
+    keep-tex: true
+    toc: true
+    lof: false
+    lot: false

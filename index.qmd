@@ -55,8 +55,11 @@ Each chapter builds on the previous, but feel free to jump to sections that inte
 
 ### Print It Yourself
 
-Ready to dive in? The NoDrip XL files are available for download, along with tested print settings:
+Ready to dive in? Download the NoDrip XL files and start printing:
 
+📥 **[Download from Printables](https://www.printables.com/model/1356200-aero-coffee-xl-flow-restriction-filter-cap-jmc-nod)**
+
+Tested print settings:
 - Material: PCTG (cap body)
 - Layer height: 0.2mm with 100% infill
 - 4 walls/top/bottom for durability
